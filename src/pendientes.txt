@@ -1,0 +1,2 @@
+ <Turnos hora={this.state.hora} lcorte={this.state.listaCortes} lmanicure={this.state.listaManicure}
+      handleTurnoSpan={this.handleTurnoSpan.bind(this)}/>

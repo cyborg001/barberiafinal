@@ -1,0 +1,22 @@
+#turnos1{
+	background:white;
+	margin:0;
+	width:600px;
+	position:absolute;
+	z-index: 4;
+	top:200px;
+	margin-left:20%;
+	border-width: 1px;
+	border-color: gray;
+	border-style: solid;
+	display:none;
+}
+#spanListaClientes{
+	color:lightgray;
+	margin-left:90%;
+}
+#spanListaClientes:hover{
+	background:lightgray;
+	color:black;
+	cursor:pointer;
+}

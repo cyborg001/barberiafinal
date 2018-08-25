@@ -1,0 +1,57 @@
+ #reservas1{
+      top:100px;
+      width:400px;
+      left:37%;
+      display:none;
+      background:white;
+      border-style:solid;
+      border-width:1px;
+      z-index: 3;
+      position:absolute;
+    }
+    input:focus{
+      color:black;
+      background-color: #FFF0F5;
+    }
+    input{
+      color:black;
+    }
+    fieldset{
+      background-color: lightgray;
+    }
+    .text-center{
+      align-items: center;
+    }
+    #header-reservas1{
+      width:400px;
+      margin-left: -51px;
+      background:#FFF0F5;
+      border-style:solid;
+      border-width: 1px;
+    }
+    .fontsize{
+      font-size:18px;
+    }
+    #h3block{
+    }
+    form1{
+      border-top-width: 1px;
+      border-top-style: solid;
+    }
+    #botones{
+      display:flex;
+      margin-left:65px;
+    }
+    #spanx{
+      position:relative;
+      color:lightgray;
+      top:-60px;
+      right:-180px;
+
+
+    }
+    #spanx:hover{
+      color:black;
+      cursor:pointer;
+
+    }
