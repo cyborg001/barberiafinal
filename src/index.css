@@ -73,6 +73,22 @@ body {
     border-color: transparent;
     color: #fff !important;
 }
+
+@media only screen and (max-width: 767px) {
+    #ulnavbar{
+        height:300px;
+    }
+    .dropdown-content{
+        position:relative;
+        margin-left: 30%;
+        margin-top:0px;
+    }
+    .jumbotron {
+        background-color: hsl(0, 0%, 93%);
+        color: black;
+        padding: 100px 25px;
+    }
+}
 /*-----------------------------------------------------------*/
 .modal {
     display: none; /* Hidden by default */
@@ -189,3 +205,4 @@ body {
         -webkit-transform: translateY(0%);
     }
 }
+
